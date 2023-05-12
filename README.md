@@ -1,4 +1,4 @@
-# Lost in the Library
+# Lost in the Library. CSCI43700
 
 ## Game Overview:
 Lost in the Library is an interactive fiction text-based game. The player awakens in an enchanted library and must through several parts to discover a way out. The game is organized as a network of nodes, each of which represents a different location in the library, and the player advances by making decisions that affect the path through the nodes.
