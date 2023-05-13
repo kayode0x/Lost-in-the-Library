@@ -7,11 +7,11 @@ Lost in the Library is an interactive fiction text-based game. The player awaken
 Twine, a simple and accessible tool for telling interactive, nonlinear stories, was used to develop the game. Twine was chosen because of its user-friendly interface, convenience of use, and ability to export the game as an HTML file that can be played in any modern web browser without the need for other software or plugins.
 
 ## How to Play:
-Visit [this link](kayode0x.github.io/Lost-in-the-Library/) to play the game online.
+Visit [this link](https://kayode0x.github.io/Lost-in-the-Library/) to play the game online.
 The game is played by clicking on text hyperlinks that go to different chapters and advance the tale. Starting at the Study Carrel, the player explores the library by selecting which section to visit from the Main Library Floor. Each segment interacts differently and may yield clues or materials required to advance.
 
 ## Installation and Gameplay Instructions:
-There is no need for installation. The game is saved as an HTML file in Twine and may be seen and played in any modern web browser. To make selections and move through the game, simply click on the hyperlinks. Visit [this link](kayode0x.github.io/Lost-in-the-Library/) to play the game online.
+There is no need for installation. The game is saved as an HTML file in Twine and may be seen and played in any modern web browser. To make selections and move through the game, simply click on the hyperlinks. Visit [this link](https://kayode0x.github.io/Lost-in-the-Library/) to play the game online.
 
 ## Lessons Learned:
  - **Game Design:** A fundamental challenge was balancing player choice with narrative framework. The game required enough variety to be interactive and intriguing, but too many options may render the tale nonsensical or overwhelming.
